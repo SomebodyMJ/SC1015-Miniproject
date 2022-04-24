@@ -1,8 +1,8 @@
-# SC1015-Miniproject Covid 19 Predicator
+# SC1015-Miniproject COVID 19 Predicator
 
 # About
-- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Covid 19 Predication from the Covid 19 Dataset.
-- In this project, we will be using the 2 different models and comparing them to see which model is a better predicator for Covid 19 Cases in Singapore
+- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on COVID 19 Predication from the COVID 19 Dataset.
+- In this project, we will be using the 2 different models and comparing them to see which model is a better predicator for COVID 19 Cases in Singapore
 
 
 ## Contributors
@@ -12,8 +12,8 @@
 
 
 ## Problem Definition
-- Using the 2 different models and comparing them to see which model is a better predicator for Covid 19 Cases in Singapore
-- Which model is the more accurate or better at predicting future Covid 19 Cases
+- Using the 2 different models and comparing them to see which model is a better predicator for COVID 19 Cases in Singapore
+- Which model is the more accurate or better at predicting future COVID 19 Cases
 
 ## Models used
 - Polynomial Regression
