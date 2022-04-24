@@ -1,7 +1,7 @@
 # SC1015-Miniproject COVID-19 Predicator
 
 # About
-- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on COVID-19 Predication from the COVID 19 Dataset.
+- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on COVID-19 Predication from the COVID-19 Dataset.
 - In this project, we will be using the 2 different models and comparing them to see which model is a better predicator for COVID-19 Cases in Singapore
 
 
