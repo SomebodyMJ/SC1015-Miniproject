@@ -12,8 +12,8 @@
 
 
 ## Problem Definition
-- using the 2 different models and comparing them to see which model is a better predicator for Covid 19 Cases in Singapore
-- which model is the more accurate or better at predicting future Covid 19 Cases
+- Using the 2 different models and comparing them to see which model is a better predicator for Covid 19 Cases in Singapore
+- Which model is the more accurate or better at predicting future Covid 19 Cases
 
 ## Models used
 - Polynomial Regression
@@ -22,7 +22,7 @@
 
 ## Conclusion
 - ARIMA model is  limited to being able to only compare one factor with time and is unable to compare different factors together
-- Out of the 4 factors that we have chosen( "Daily Confirmed", "Daily Discharged", "Still Hospitalised", "Intensive Care Unit (ICU)", "In Isolation MOH report"), In Isolation is the factor that has the highest correlation with the factor Daily COnfirmed
+- Out of the 4 factors that we have chosen( "Daily Confirmed", "Daily Discharged", "Still Hospitalised", "Intensive Care Unit (ICU)", "In Isolation MOH report"), In Isolation is the factor that has the highest correlation with the factor Daily Confirmed
 - 
 
 
